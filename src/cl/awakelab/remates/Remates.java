@@ -12,8 +12,7 @@ public class Remates {
 		// TODO Auto-generated method stub
 		Menu m = new Menu();
 		m.orquestaMenu();
-
-		
+	
 	}
 
 }

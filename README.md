@@ -12,7 +12,10 @@ En una de las primeras iteraciones del proyecto, debe abordar los siguientes req
 - Los productos pueden tener comentarios y calificaciones de los usuarios, de 1 a 7, etc.
 - Los remates, son para cualquier tipo de producto, y uno a la vez. 
 - Los remates reciben “posturas” de los usuarios, que deben ser mayor al precio inicial, y al precio de la última “postura”, en una fecha y horario en particular.
-- La app. De consola, debe desplegar un menú que muestre las siguientes opciones:
+
+
+## La App de consola, debe desplegar un menú que muestre las siguientes opciones:
+
 
 1. Listar Remates vigentes.
 2. Listar Productos en sistema (tengan o no algún remate vigente).
