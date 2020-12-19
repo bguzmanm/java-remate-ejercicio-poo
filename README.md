@@ -14,8 +14,8 @@ En una de las primeras iteraciones del proyecto, debe abordar los siguientes req
 - Los remates reciben “posturas” de los usuarios, que deben ser mayor al precio inicial, y al precio de la última “postura”, en una fecha y horario en particular.
 
 
-## La App de consola, debe desplegar un menú que muestre las siguientes opciones:
-
+## Menú
+La app de consola debe desplegar un menú que muestre las siguientes opciones:
 
 1. Listar Remates vigentes.
 2. Listar Productos en sistema (tengan o no algún remate vigente).
